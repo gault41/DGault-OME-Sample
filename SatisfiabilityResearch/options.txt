@@ -1,0 +1,7 @@
+Input Directory: 	H:\David\My Documents\Uni\Level 4\Research Project
+Output Directory: 	H:\David\My Documents\Uni\Level 4\Research Project
+Marchks Directory:	H:\David\My Documents\Uni\Level 4\Research Project\solvers\working\march_ks
+TTS Directory:		H:\David\My Documents\Uni\Level 4\Research Project\solvers\working\tts	
+Minisat Directory:	H:\David\My Documents\Uni\Level 4\Research Project\solvers\working\minisat
+GnuPlot Directory:	H:\David\My Documents\Uni\Level 4\Research Project\GnuPlot\bin
+Solvers:		Minisat	Marchks	Tts

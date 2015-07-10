@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Satisfiability Framework</label>
+	</settings>
+	<users>
+		<user>
+			<path>Satisfiability Framework2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Satisfiability Framework.jcp</path>
+		</project>
+	</projects>
+</workspace>
